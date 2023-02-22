@@ -1,4 +1,4 @@
----
+--hexa000
 items:
  - 30-seconds/30-seconds-of-code
  - railsgirls/railsgirls.github.io
@@ -22,7 +22,7 @@ items:
  - public-apis/public-apis
  - EbookFoundation/free-programming-books
  - amitness/learning
- - mhinz/vim-galore
+ - mhinz/vim-galore-dinom
  - tayllan/awesome-algorithms
  - karlhorky/learn-to-program
  - therebelrobot/awesome-workshopper
